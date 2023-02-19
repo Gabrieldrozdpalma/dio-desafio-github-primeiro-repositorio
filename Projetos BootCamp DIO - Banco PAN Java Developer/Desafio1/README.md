@@ -1,4 +1,4 @@
-# DESAFIO PROPOSTO:
+# DESAFIO:
 
 O custo de um carro novo ao consumidor é a soma do custo de fábrica com a porcentagem do distribuidor e dos impostos 
 (aplicados ao custo de fábrica). O gerente de uma loja de carros gostaria de um programa para calcular o preço de um 
