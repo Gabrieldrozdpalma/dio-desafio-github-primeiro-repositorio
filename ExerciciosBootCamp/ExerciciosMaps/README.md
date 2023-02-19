@@ -22,3 +22,9 @@ Estado = RN - População = 3.534.265
  -Exiba o estado com a maior população e sua quantidade;
  -Exiba a soma da população desses estados;
  -Exiba a média da população deste dicionário de estados;
+
+# Exercício 2:
+
+Faça um programa que simule um lançamento de dados.
+Lance o dado 100 vezes e armazene.
+Depois, mostre quantas vezes cada valor foi inserido.
